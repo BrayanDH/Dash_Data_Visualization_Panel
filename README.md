@@ -61,4 +61,3 @@ Special thanks to the creators and maintainers of the libraries and frameworks u
 
 ---
 
-*Note: The code example provided above appears to be a Python script rather than a typical README file. Please consider providing the relevant information and descriptions specific to your Data Visualization Final Project in the actual README file on GitHub.*
