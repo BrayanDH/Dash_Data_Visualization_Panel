@@ -34,8 +34,14 @@ To run the Data Visualization Final Project locally, follow these steps:
    ```
    python app.py
    ```
+   
+   or
+   
+     ```
+   app.py
+   ```
 
-5. Open your web browser and visit http://localhost:8050 to access the Data Visualization Final Project.
+6. Open your web browser and visit http://localhost:8050 to access the Data Visualization Final Project.
 
 ## Dependencies
 
