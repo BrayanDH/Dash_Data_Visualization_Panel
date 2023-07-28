@@ -14,7 +14,7 @@ To run the Data Visualization Final Project locally, follow these steps:
 1. Clone this repository:
 
    ```
-   git clone https://github.com/BrayanDH/Data_Visualization_Final_Project.git
+   git clone https://github.com/BrayanDH/Dash_Data_Visualization_Panel.git
    ```
 
 2. Navigate to the project directory:
