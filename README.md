@@ -9,12 +9,37 @@ This project is a Data Visualization Final Project developed using Dash, a web a
 
 ## Getting Started
 
-To run the Data Visualization Final Project locally, follow these steps:
+```
+git clone https://github.com/BrayanDH/Dash_Data_Visualization_Panel.git
+```
+
+- Navigate to the project directory:
+
+  ```
+  cd Dash_Data_Visualization_Panel
+  ```
+
+- Build the Docker container:
+
+  ```
+  docker build -t Dash_Data_Visualization_Panel .
+  ```
+
+- Run the container:
+
+  ```
+  docker run -p 8080:8080 Dash_Data_Visualization_Panel
+  ```
+
+To run the Todo App locally without docker, follow these steps:
+Install Docker on your machine: [Python Installation](https://www.python.org/downloads/)
+
+To run the Data Visualization Final Project locally without docker, follow these steps:
 
 1. Clone this repository:
 
    ```
-   git clone https://github.com/BrayanDH/Dash_Data_Visualization_Panel.git
+   git clone https://github.com/BrayanDH/Data_Visualization_Final_Project.git
    ```
 
 2. Navigate to the project directory:
@@ -34,14 +59,14 @@ To run the Data Visualization Final Project locally, follow these steps:
    ```
    python app.py
    ```
-   
+
    or
-   
-     ```
+
+   ```
    app.py
    ```
 
-6. Open your web browser and visit http://localhost:8050 to access the Data Visualization Final Project.
+5. Open your web browser and visit http://localhost:8050 to access the Data Visualization Final Project.
 
 ## Dependencies
 
@@ -66,4 +91,3 @@ This project is licensed under the MIT License.
 Special thanks to the creators and maintainers of the libraries and frameworks used in this project.
 
 ---
-

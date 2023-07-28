@@ -243,5 +243,8 @@ def get_graph(chart, year, children1, children2, c3, c4, c5):
 # Run the app
 if __name__ == '__main__':
     # REVIEW8: Adding dev_tools_ui=False, dev_tools_props_check=False can prevent error appearing before calling callback function
-    app.run_server(mode="inline", host="localhost", debug=False,
-                   dev_tools_ui=False, dev_tools_props_check=False)
+    app.run_server(mode="external", host="0.0.0.0",
+                   dev_tools_ui=False , dev_tools_props_check=False, port = 8080)
+
+    #app.run(host="0.0.0.0", port=8080)
+ 
