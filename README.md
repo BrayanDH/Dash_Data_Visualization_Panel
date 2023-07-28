@@ -12,9 +12,10 @@ This project is a Data Visualization Final Project developed using Dash, a web a
 Install Docker on your machine: [Docker Installation Guide ](https://docs.docker.com/engine/install/)
 
 - Clone this repository:
-```
-git clone https://github.com/BrayanDH/Dash_Data_Visualization_Panel.git
-```
+
+  ```
+  git clone https://github.com/BrayanDH/Dash_Data_Visualization_Panel.git
+  ```
 
 - Navigate to the project directory:
 
