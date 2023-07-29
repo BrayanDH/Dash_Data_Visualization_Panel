@@ -14,7 +14,7 @@ Install Docker on your machine: [Docker Installation Guide ](https://docs.docker
 - Clone this repository:
 
   ```
-  git clone https://github.com/BrayanDH/Dash_Data_Visualization_Panel.git
+  git clone https://github.com/BrayanDH/dash_data_visualization_panel.git
   ```
 
 - Navigate to the project directory:
@@ -43,7 +43,7 @@ To run the Data Visualization Final Project locally without docker, follow these
 1. Clone this repository:
 
    ```
-   git clone https://github.com/BrayanDH/Data_Visualization_Final_Project.git
+   git clone https://github.com/BrayanDH/dash_data_visualization_panel.git
    ```
 
 2. Navigate to the project directory:
