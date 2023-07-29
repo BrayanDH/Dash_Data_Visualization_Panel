@@ -20,19 +20,19 @@ Install Docker on your machine: [Docker Installation Guide ](https://docs.docker
 - Navigate to the project directory:
 
   ```
-  cd Dash_Data_Visualization_Panel
+  cd dash_data_visualization_panel
   ```
 
 - Build the Docker container:
 
   ```
-  docker build -t Dash_Data_Visualization_Panel .
+  docker build -t dash_data_visualization_panel .
   ```
 
 - Run the container:
 
   ```
-  docker run -p 8080:8080 Dash_Data_Visualization_Panel
+  docker run -p 8080:8080 dash_data_visualization_panel
   ```
 
 To run the Todo App locally without docker, follow these steps:
@@ -49,7 +49,7 @@ To run the Data Visualization Final Project locally without docker, follow these
 2. Navigate to the project directory:
 
    ```
-   cd Data_Visualization_Final_Project
+   cd dash_data_visualization_panel
    ```
 
 3. Install dependencies:
